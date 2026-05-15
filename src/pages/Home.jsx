@@ -29,7 +29,7 @@ function Home() {
         >
           Smart governance platform enabling citizens to report civic
           problems with live tracking, automated routing, and transparent
-          issue resolution.
+          issue resolution efficiently.
         </p>
       </section>
 
